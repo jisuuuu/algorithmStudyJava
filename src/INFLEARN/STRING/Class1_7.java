@@ -26,6 +26,8 @@ public class Class1_7 {
 
         if (str.equalsIgnoreCase(tmp)) {
             System.out.println("YES");
+        } else {
+            System.out.println("NO");
         }
     }
 }

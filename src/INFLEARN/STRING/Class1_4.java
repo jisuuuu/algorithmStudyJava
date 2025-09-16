@@ -24,6 +24,7 @@ public class Class1_4 {
                 r--;
             }
             String tmp = String.valueOf(chars);
+            answer.add(tmp);
         }
         return answer;
     }
