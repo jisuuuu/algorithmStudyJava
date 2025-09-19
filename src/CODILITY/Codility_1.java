@@ -1,4 +1,4 @@
-package TEST;
+package CODILITY;
 
 public class Codility_1 {
     public static void main(String[] args) {

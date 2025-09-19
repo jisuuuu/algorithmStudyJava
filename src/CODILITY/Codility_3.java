@@ -1,6 +1,4 @@
-package TEST;
-
-import java.util.Arrays;
+package CODILITY;
 
 public class Codility_3 {
     public static int solution(int[] A) {
